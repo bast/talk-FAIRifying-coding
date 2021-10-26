@@ -1,5 +1,9 @@
 class: center, middle, inverse
 
+<img src="img/coderefinery.png" style="height: 200px;"/>
+
+## Tech Talk, Oct 28, 2021
+
 # Next steps to FAIRifying coding in an academic setting
 
 ## Radovan Bast [@\_\_radovan](https://twitter.com/__radovan)
@@ -50,6 +54,14 @@ development of reproducible and reusable research software.
 
 ## CodeRefinery
 
+### Our goal
+
+Advance .emph[FAIRness] of software management and development practices so that research groups can
+.emph[collaboratively develop], review, discuss, test, share, and reuse their codes.
+
+
+### History
+
 - Project grew out of a 1-week course started at KTH Stockholm in 2014
 - Since 2016:
   - **31 full workshops**
@@ -63,56 +75,172 @@ development of reproducible and reusable research software.
 
 ---
 
-.left-column[
-## Our goal
+## Typical curriculum
 
-Advance .emph[FAIRness] of software management and development practices so that research groups can
-.emph[collaboratively develop], review, discuss, test, share, and reuse their codes.
-]
-.right-column[
-### Our [lessons](https://coderefinery.org/lessons/)
-
+.left-column60[
 - Basic and collaborative Git
-- Git branch design
+- Code review
+- Social coding and open software
+- Reproducible research
+- Jupyter notebooks
 - Code documentation
 - Automated testing
-- Jupyter notebooks
-- Social coding and open software
 - Modular code development
-- Reproducible research
+
+
+### All our material is open and CC-BY
+
+- https://coderefinery.org/lessons/
+- https://github.com/coderefinery
+
+
+We are now in the process of making the lessons citable.
 ]
+.right-column40[
+### 3 days on-site in person
+
+### Now: 6 half-days online
+]
+
+---
+
+## CodeRefinery: bridging the gap
+
+<img src="img/pyramid.png" style="width: 80%;"/>
+
+---
+
+## A vision of reaching many people at once
+
+![The first idea... accept everyone, stream for everyone else](img/inspiration-1.png)
+
+![A bit later... crazy but genius](img/inspiration-2.png)
+
+.cite[Twitch: live streaming service popular in the gaming community]
+
+---
+
+## Scaling up during 2020: effective team work
+
+<img src="img/scaling-up.png" style="width: 50%;"/>
+
+- Before 2020: ~25 participants, ~2 helpers
+- Now: routinely 100+ participants, 20+ helpers
+- Lectures & code-along exercises in the main room: .emph[stream and also record]
+- Get help and group exercises in a breakout room
+- Participants can register as teams (.emph["bring your own breakout room"])
+- Installation sessions and helper preparation sessions
+- Asynchronous Q&A via [HackMD](https://hackmd.io/) ->
+  we publish these ([example](https://coderefinery.github.io/2020-10-20-online/#questions-answers-and-feedback))
+
+
+### More details
+
+- [Operation manuals](https://coderefinery.github.io/manuals/):
+  reference and training for our teaching style
+- Blog post: https://coderefinery.org/blog/2020/07/31/mega-coderefinery/
+- [Presentation at CarpentryCon@Home 2020](https://github.com/coderefinery/carpentrycon-2020)
+
+---
+
+## Recent feedback
+
+> "I take this chance to congratulate once more for the very appreciated workshop.
+> I really enjoyed all the sessions, this is something I have been looking for
+> for a couple of years now and that I will strongly advertise between my
+> colleagues.  In particular, I would like to congratulate you for your
+> professionalism and for having made the most of all the potential of distance
+> learning, without ever complaining about its obvious and unnecessary
+> limitations. The team effort during the classes was impressive. Also, the
+> material available to support the classes is excellent and I am sure I will
+> exploit it in the future."
+
+---
+
+class: center, middle, inverse
+
+# Who is our community?
+
+# What is our impact?
+
+---
+
+## Pre-workshop survey: Who comes to our workshops?
+
+- https://github.com/coderefinery/pre-workshop-survey
+- https://doi.org/10.5281/zenodo.2671578
+
+<img src="img/pre-workshop/position.png" style="width: 100%;"/>
+
+---
+
+<img src="img/pre-workshop/discipline.png" style="width: 80%;"/>
+
+---
+
+## Pre-workshop survey: Programming languages
+
+<img src="img/pre-workshop/languages.png" style="width: 100%;"/>
+
+---
+
+## Pre-workshop survey: Version control
+
+<img src="img/pre-workshop/version-control.png" style="width: 100%;"/>
+
+---
+
+## Pre-workshop survey: Tests
+
+<img src="img/pre-workshop/tests.png" style="width: 100%;"/>
+
+---
+
+## Pre-workshop survey: Automated testing
+
+<img src="img/pre-workshop/automated-testing.png" style="width: 100%;"/>
+
+---
+
+## Pre-workshop survey: Documentation
+
+<img src="img/pre-workshop/documentation.png" style="width: 100%;"/>
+
+---
+
+## Pre-workshop survey: Web tools
+
+<img src="img/pre-workshop/web-tools.png" style="width: 100%;"/>
+
+---
+
+## Pre-workshop survey: Code review
+
+<img src="img/pre-workshop/code-review.png" style="width: 100%;"/>
+
+---
+
+## Post-workshop survey: impact on usage of tools
+
+- https://github.com/coderefinery/post-workshop-survey
+- https://doi.org/10.5281/zenodo.2671576
+
+<img src="img/post-workshop/heatmap.png" style="width: 100%;"/>
+
+---
+
+## Post-workshop survey: impact on code quality and collaboration
+
+- 284 answers
+
+<img src="img/post-workshop/yes-no-questions.png" style="width: 100%;"/>
 
 ---
 
 ## RSH
 
----
-
-## CodeRefinery: what is our impact?
-
-<img src="img/impact1.png" style="width: 80%;"/>
-
-.footnote[https://coderefinery.org]
-
----
-
-## CodeRefinery: lessons learned
-
-### Demand
-
-- .emph[Demand for training] is huge.
-- [The Carpentries](https://carpentries.org) offer great courses in basics but there is .emph[need for more advanced courses].
-
-### Collaborative version control
-
-- Around a third of workshop participants are new to .emph[version control].
-- Very few participants use .emph[code review] and .emph[automated testing] before arriving at our workshop.
-
-### FAIR
-
-- .emph[Software licensing and copyright] aspects are new to most participants.
-- Code publishing and .emph[code citation principles] are new to most participants.
-- .emph[FAIR principles] in software management are far from standard.
+- Research Software Hour: https://researchsoftwarehour.github.io/
+- [Research Software Seminar Series](https://nordic-rse.org/events/seminar-series/)
 
 ---
 
@@ -158,21 +286,6 @@ ReproHack is a one day, hands-on reproducibility hackathon
 .quote["we have used a locally modified version of code X"]
 
 - What does this mean in terms of findability, accessibility, and reproducibility?
-
----
-
-## Great project: Software Heritage
-
-### https://www.softwareheritage.org
-
-### [@swheritage](https://twitter.com/swheritage)
-
-Building the universal software archive.
-
-Collects, preserves, and shares software source code for present and future
-generations.
-
-.emph[Initiated by Inria], the French national research institute for the digital sciences.
 
 ---
 
@@ -289,37 +402,6 @@ However a study showed that despite these policies, many people still do not sha
 
 class: center, middle, inverse
 
-## Code is on GitHub with a standard open source license
-
-# Is this enough?
-
----
-
-## Public access alone may not be enough
-
-- Assigning a .emph[digital object identifier] (DOI) to the version referenced in a published manuscript .emph[is a must].
-
-### Great services to get a DOI
-
-- [Zenodo](https://zenodo.org)
-- [Open Science Framework](https://osf.io)
-- [Software Heritage](https://www.softwareheritage.org)
-- [Dataverse](https://dataverse.org)
-- [Figshare](https://figshare.com)
-
-.quote["A published program will form part of a permanent international literature"]
-.cite[Roberts, K. V., Comput. Phys. Comm. 1, 1 (1969)]
-
-### Publishing papers about software
-
-- [The Journal of Open Source Software](https://joss.theoj.org/about)
-- [In which journals should I publish my software?](https://www.software.ac.uk/resources/guides/which-journals-should-i-publish-my-software)
-- https://www.force11.org/software-citation-principles
-
----
-
-class: center, middle, inverse
-
 # Challenges
 
 ## We more or less have the tools, **what are we missing**?
@@ -371,6 +453,37 @@ class: center, middle, inverse
 
 ---
 
+## FAIR software
+
+- https://fair-software.eu/
+- ["Towards FAIR principles for research software", Lamprecht et al., Data Science, vol. 3, no. 1, 37-59, 2020](https://doi.org/10.3233/DS-190026)
+- Also: documentation, code review, version control for dependencies
+
+
+### FAIR principles have many aspects
+
+- Principles
+- Best practices
+- Policies
+- Standards
+- Governance model
+- Development of tools
+- .emph[Training] (version control, notebooks, documentation, code review, version control for dependencies, licenses, testing)
+- .emph[Mentorship]
+
+---
+
+## Future/challenges
+
+- Towards a non-profit organization
+- Make it easier for organizations and individuals to join
+- Give .emph[better credit] for volunteer contributions
+- Offer not only training but also mentorship network
+- FAIR software practices survey
+- How to better advertise and reach and connect the community?
+
+---
+
 ## Conclusions/recommendations
 
 ### Link to these slides: http://bit.ly/strasbourg50
@@ -386,3 +499,4 @@ class: center, middle, inverse
 - Connect with other research software engineers.
 - Attract developers with .emph[career opportunities].
 - .emph[Influence hiring committees] to not only look at the number of papers - we get what we measure.
+class: center, middle
