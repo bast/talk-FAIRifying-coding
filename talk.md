@@ -17,33 +17,16 @@ UiT The Arctic University of Norway
 
 ## About me
 
-.left-column[
-<img src="img/avatar.jpeg" style="width: 50%;"/>
-
-- Theoretical chemist turned research software engineer.
-- PhD at LCQ 2004-2008.
-- I write research software and teach programming to researchers and lead the
-  [CodeRefinery project](https://coderefinery.org).
-- Co-author of the CMake Cookbook.
+.left-column40[
+<img src="img/avatar.jpeg" style="width: 65%;"/>
 ]
 
-.right-column[
-### Code projects
-
-- DIRAC
-- Dalton
-- OpenRSP
-- XCint
-- XCFun
-- Numgrid
-- GIMIC
-- Parselglossy
-- Autocmake
-- Runtest
-- Sonar
-- Smeshing
-- Blob
-- SMARTool
+.right-column60[
+- Theoretical chemist turned research software engineer.
+- I write research software and teach programming to researchers and lead the
+  [CodeRefinery project](https://coderefinery.org).
+- Developing libraries for computational chemistry and computational geometry
+  (used in oceanography).
 ]
 
 ---
@@ -53,26 +36,35 @@ UiT The Arctic University of Norway
 We teach tools and practices for the
 development of reproducible and reusable research software.
 
-.left-column[
+.left-column50[
 <img src="img/map.jpg" style="width: 100%;"/>
 
 - https://coderefinery.org
-- https://coderefinery.org/workshops/
+- https://coderefinery.org/workshops/past/
 ]
-.right-column[
-<img src="img/coderefinery.png" style="padding-left: 30px; width: 80%;"/>
+.right-column50[
+<img src="img/coderefinery.png" style="padding-left: 30px; width: 60%;"/>
 ]
 
 ---
 
 ## CodeRefinery
 
-- We have trained .emph[over 600 students and researchers]
-- Across all academic disciplines
-- Funding for 2 more years
+- Project grew out of a 1-week course started at KTH Stockholm in 2014
+- Since 2016:
+  - **31 full workshops**
+  - 25 other workshops/events
+  - 3 instructor training events
+  - **over 1600 persons trained** across all academic disciplines
+- Last 4 workshops: **8 volunteer instructors**, over **80 volunteer helpers**
+
+
+### We just got funding for 3 more years 🎉
+
+---
 
 .left-column[
-### Our goal
+## Our goal
 
 Advance .emph[FAIRness] of software management and development practices so that research groups can
 .emph[collaboratively develop], review, discuss, test, share, and reuse their codes.
@@ -85,12 +77,14 @@ Advance .emph[FAIRness] of software management and development practices so that
 - Code documentation
 - Automated testing
 - Jupyter notebooks
-- Integrated development environments
-- Building portable code with CMake
 - Social coding and open software
 - Modular code development
 - Reproducible research
 ]
+
+---
+
+## RSH
 
 ---
 
@@ -135,7 +129,7 @@ class: center, middle, inverse
 ### Couple of uncomfortable questions:
 
 - Can you still .emph[find] your code?
-- It was probably not on GitHub (GitHub launched only 11 years ago, GitLab is only 6 years old).
+- It was probably not on GitHub (GitHub launched only 13 years ago, GitLab is only 8 years old).
 - Can you bring it to a .emph[well-defined state]?
 - Can you find corresponding documentation?
 - How about .emph[external dependencies]? Have you locked their versions?
@@ -326,7 +320,7 @@ class: center, middle, inverse
 
 class: center, middle, inverse
 
-## Challenges
+# Challenges
 
 ## We more or less have the tools, **what are we missing**?
 
