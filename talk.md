@@ -1,22 +1,11 @@
-
-## Coding like it’s 1969
-
-<img src="img/ibm.jpg" style="width: 100%;"/>
-
-.footnote[Bundesarchiv, B 145 Bild-F038812-0014, Lothar Schaack (CC-BY-SA 3.0 DE)]
-
----
-
 class: center, middle, inverse
 
-# Research software engineering recipes for the next decade
+# Next steps to FAIRifying coding in an academic setting
 
 ## Radovan Bast [@\_\_radovan](https://twitter.com/__radovan)
 
 Nordic e-Infrastructure Collaboration/
 UiT The Arctic University of Norway
-
-## Slides: http://bit.ly/strasbourg50
 
 ---
 
