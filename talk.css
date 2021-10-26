@@ -28,13 +28,73 @@ a {
   color: #e8daef;
 }
 
-.left-column {
+.left-column20 {
+  width: 20%;
+  float: left;
+}
+
+.left-column30 {
+  width: 30%;
+  float: left;
+}
+
+.left-column40 {
+  width: 40%;
+  float: left;
+}
+
+.left-column50 {
   width: 50%;
   float: left;
 }
 
-.right-column {
+.left-column60 {
+  width: 60%;
+  float: left;
+}
+
+.left-column70 {
+  width: 70%;
+  float: left;
+}
+
+.left-column80 {
+  width: 80%;
+  float: left;
+}
+
+.right-column20 {
+  width: 20%;
+  float: right;
+}
+
+.right-column30 {
+  width: 30%;
+  float: right;
+}
+
+.right-column40 {
+  width: 40%;
+  float: right;
+}
+
+.right-column50 {
   width: 50%;
+  float: right;
+}
+
+.right-column60 {
+  width: 60%;
+  float: right;
+}
+
+.right-column70 {
+  width: 70%;
+  float: right;
+}
+
+.right-column80 {
+  width: 80%;
   float: right;
 }
 
@@ -55,13 +115,17 @@ a {
   background-color: #c8deff;
 }
 
+.strike {
+  text-decoration: line-through;
+}
+
 .remark {
   color: #8e44ad;
   font-style: italic;
 }
 
 .quote {
-  color: #ff0000;
+  color: #ec7063;
   font-style: italic;
   font-size: 30px;
 }
