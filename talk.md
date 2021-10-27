@@ -504,7 +504,7 @@ class: center, middle, inverse
 - https://researchsoftwarehour.github.io/
 - Also [Research Software Seminar Series](https://nordic-rse.org/events/seminar-series/)
 
-... here I will add more ...
+<img src="img/rsh.png" style="width: 100%;"/>
 
 ---
 
@@ -513,8 +513,9 @@ class: center, middle, inverse
 - Community building
 - Convincing that what is good for others is often good for self
 - Convincing that "others" is often self in future
-- Connecting significant training demand with existing training "supply", across organizational, national, and funding borders
 - Learning through mentoring and sharing
+- Making courses more accessible through streaming
+- Connecting significant training demand with existing training "supply", across organizational, national, and funding borders
 - Connecting the top-down funding with the bottom-up enthusiasm
 - Improving the situation *with* researchers, not only *for* researchers
 
