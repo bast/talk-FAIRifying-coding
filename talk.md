@@ -1,4 +1,4 @@
-class: center, middle, inverse
+class: center, middle
 
 <img src="img/coderefinery.png" style="height: 200px;"/>
 
@@ -52,9 +52,7 @@ development of reproducible and reusable research software.
 
 ---
 
-## CodeRefinery
-
-### Our goal
+## CodeRefinery: our goal
 
 Advance .emph[FAIRness] of software management and development practices so that research groups can
 .emph[collaboratively develop], review, discuss, test, share, and reuse their codes.
@@ -100,6 +98,10 @@ We are now in the process of making the lessons citable.
 ### 3 days on-site in person
 
 ### Now: 6 half-days online
+
+### Dates for 2022
+- March 22-24, 29-31
+- September 20-22, 27-29
 ]
 
 ---
