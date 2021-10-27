@@ -518,6 +518,7 @@ class: center, middle, inverse
 - Connecting significant training demand with existing training "supply", across organizational, national, and funding borders
 - Connecting the top-down funding with the bottom-up enthusiasm
 - Improving the situation *with* researchers, not only *for* researchers
+- Sharing imperfect code/scripts instead of never sharing because it is not perfect yet?
 
 ---
 
