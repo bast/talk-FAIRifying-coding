@@ -239,10 +239,34 @@ class: center, middle, inverse
 
 ---
 
-## RSH
+## Reproducibility and FAIR principles
 
-- Research Software Hour: https://researchsoftwarehour.github.io/
-- [Research Software Seminar Series](https://nordic-rse.org/events/seminar-series/)
+<img src="img/turing-way/8-fair-principles.jpg" style="width: 80%;"/>
+
+.cite[(c) [Scriberia](http://www.scriberia.co.uk) for [The Turing Way](https://the-turing-way.netlify.com), CC-BY.]
+
+---
+
+## FAIR principles: Which problems can you anticipate?
+
+### Findable
+
+.quote["On which of my external hard-drives is my script?"]
+
+
+### Accessible
+
+.quote["Can you please give me access to your scripts?"]
+
+
+### Interoperable
+
+.quote["How can I convert this file format?"]
+
+
+### Reusable
+
+.quote["I wish I could reuse this visualization pipeline for my new data!"]
 
 ---
 
@@ -370,6 +394,28 @@ However a study showed that despite these policies, many people still do not sha
 
 ---
 
+## FAIR software
+
+- https://fair-software.eu/
+- https://softdev4research.github.io/4OSS-lesson/
+- ["Towards FAIR principles for research software", Lamprecht et al., Data Science, vol. 3, no. 1, 37-59, 2020](https://doi.org/10.3233/DS-190026)
+- https://www.rd-alliance.org/groups/fair-research-software-fair4rs-wg
+- Also: documentation, code review, version control for dependencies
+
+
+### FAIR principles have many aspects
+
+- Principles
+- Best practices
+- Policies
+- Standards
+- Governance model
+- Development of tools
+- .emph[Training] (version control, notebooks, documentation, code review, version control for dependencies, licenses, testing)
+- .emph[Mentorship]
+
+---
+
 ## Code review should become a standard practice
 
 .quote["A program should be carefully checked by colleagues [...] before it is submitted for publication [...] and it should be refereed"]
@@ -390,15 +436,9 @@ However a study showed that despite these policies, many people still do not sha
 
 ---
 
-## Social coding
+<img src="https://opendreamkit.org/public/images/use-cases/reproducible_logbook.png" style="width: 100%;"/>
 
-<img src="img/in-out.jpg" style="width: 100%;"/>
-
-.cite[Idea: R. Darst, adapted]
-
-- Whether you can share your output depends on how you obtained your input.
-- .emph[Software licenses matter].
-- Sometimes "OTHERS" are you yourself in the future.
+.cite[Juliette Taka, Logilab and the OpenDreamKit project (2017), https://opendreamkit.org/2017/11/02/use-case-publishing-reproducible-notebooks/]
 
 ---
 
@@ -407,26 +447,6 @@ class: center, middle, inverse
 # Challenges
 
 ## We more or less have the tools, **what are we missing**?
-
----
-
-## Write programs for people
-
-.quote["Write each program, quite deliberately, for other people to read and understand"]
-.cite[Roberts, K. V., Comput. Phys. Comm. 1, 1 (1969)]
-
-.quote["Many programs remain in use much longer than their authors originally expect"]
-.cite[Roberts, K. V., Comput. Phys. Comm. 1, 1 (1969)]
-
----
-
-## Establishing a culture and the need for training
-
-- We need to support a .emph[culture of sharing].
-- Encourage, credit, and eventually expect openness.
-- Challenge for students and researchers, principal investigators, editors, referees,
-  funding bodies, and hiring committees.
-- .emph[Training is critical].
 
 ---
 
@@ -455,42 +475,55 @@ class: center, middle, inverse
 
 ---
 
-## FAIR software
+[here slide about various RSE communities]
 
-- https://fair-software.eu/
-- ["Towards FAIR principles for research software", Lamprecht et al., Data Science, vol. 3, no. 1, 37-59, 2020](https://doi.org/10.3233/DS-190026)
-- Also: documentation, code review, version control for dependencies
+---
 
+## Write programs for people
 
-### FAIR principles have many aspects
+.quote["Write each program, quite deliberately, for other people to read and understand"]
+.cite[Roberts, K. V., Comput. Phys. Comm. 1, 1 (1969)]
 
-- Principles
-- Best practices
-- Policies
-- Standards
-- Governance model
-- Development of tools
-- .emph[Training] (version control, notebooks, documentation, code review, version control for dependencies, licenses, testing)
-- .emph[Mentorship]
+.quote["Many programs remain in use much longer than their authors originally expect"]
+.cite[Roberts, K. V., Comput. Phys. Comm. 1, 1 (1969)]
+
+---
+
+## Establishing a culture and the need for training
+
+- We need to support a .emph[culture of sharing].
+- Encourage, credit, and eventually expect openness.
+- Challenge for students and researchers, principal investigators, editors, referees,
+  funding bodies, and hiring committees.
+- .emph[Training is critical].
+
+---
+
+## Research Software Hour
+
+- https://researchsoftwarehour.github.io/
+- Also [Research Software Seminar Series](https://nordic-rse.org/events/seminar-series/)
+
+... here I will add more ...
 
 ---
 
 ## Future/challenges
 
-- Towards a non-profit organization
-- Make it easier for organizations and individuals to join
-- Give .emph[better credit] for volunteer contributions
-- Offer not only training but also mentorship network
-- FAIR software practices survey
-- How to better advertise and reach and connect the community?
+- Community building
+- Convincing that what is good for others is often good for self
+- Convincing that "others" is often self in future
+- Connecting significant training demand with existing training "supply", across organizational, national, and funding borders
+- Learning through mentoring and sharing
+- Connecting the top-down funding with the bottom-up enthusiasm
+- Improving the situation *with* researchers, not only *for* researchers
 
 ---
 
 ## Conclusions/recommendations
 
-### Link to these slides: http://bit.ly/strasbourg50
+### Link to these slides: https://bit.ly/tech-talk-cr
 
-- Encourage students/staff to take training. **Next week I will teach in Lille!**
 - Support .emph[training activities]:
   **tell your university leaders about Carpentries and CodeRefinery**.
 - .emph[Encourage sharing] and open source.
@@ -501,4 +534,3 @@ class: center, middle, inverse
 - Connect with other research software engineers.
 - Attract developers with .emph[career opportunities].
 - .emph[Influence hiring committees] to not only look at the number of papers - we get what we measure.
-class: center, middle
