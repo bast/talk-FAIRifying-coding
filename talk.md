@@ -450,6 +450,16 @@ class: center, middle, inverse
 
 ---
 
+## Write programs for people
+
+.quote["Write each program, quite deliberately, for other people to read and understand"]
+.cite[Roberts, K. V., Comput. Phys. Comm. 1, 1 (1969)]
+
+.quote["Many programs remain in use much longer than their authors originally expect"]
+.cite[Roberts, K. V., Comput. Phys. Comm. 1, 1 (1969)]
+
+---
+
 ## Credit
 
 .quote["it is important to attract the right people, and one of their main incentives will be the credit"]
@@ -476,16 +486,6 @@ class: center, middle, inverse
 ---
 
 [here slide about various RSE communities]
-
----
-
-## Write programs for people
-
-.quote["Write each program, quite deliberately, for other people to read and understand"]
-.cite[Roberts, K. V., Comput. Phys. Comm. 1, 1 (1969)]
-
-.quote["Many programs remain in use much longer than their authors originally expect"]
-.cite[Roberts, K. V., Comput. Phys. Comm. 1, 1 (1969)]
 
 ---
 
