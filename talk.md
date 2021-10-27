@@ -513,12 +513,13 @@ class: center, middle, inverse
 - Community building
 - Convincing that what is good for others is often good for self
 - Convincing that "others" is often self in future
-- Learning through mentoring and sharing
-- Making courses more accessible through streaming
-- Connecting significant training demand with existing training "supply", across organizational, national, and funding borders
-- Connecting the top-down funding with the bottom-up enthusiasm
-- Improving the situation *with* researchers, not only *for* researchers
-- Sharing imperfect code/scripts instead of never sharing because it is not perfect yet?
+- Learning through .emph[mentoring and sharing]
+- Making courses more accessible through .emph[streaming]
+- Connecting significant training demand with existing training "supply", across organizational, national, and .emph[funding borders]
+- Connecting the .emph[top-down] funding with the .emph[bottom-up] enthusiasm
+- Improving the situation .epmh[*with* researchers], not only *for* researchers
+- .emph[Sharing imperfect code/scripts] instead of never sharing because it is not perfect yet?
+- Leading these huge distributed efforts is not easy
 
 ---
 
