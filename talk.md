@@ -485,7 +485,23 @@ class: center, middle, inverse
 
 ---
 
-[here slide about various RSE communities]
+## National RSE associations
+
+- [Society of Research Software Engineering - UK](https://society-rse.org/)
+
+- [deRSE - Society for Research Software in Germany](http://de-rse.org)
+
+- [NL-RSE - The community of Research Software Engineers in the Netherlands](http://nl-rse.org)
+
+- [Nordic-RSE - Nordic Research Software Engineers Community](http://nordic-rse.org/)
+
+- [US-RSE - The US Research Software Engineer Association](http://us-rse.org/)
+
+- [BE-RSE - Belgium Research Software Engineers community](https://be-rse.org/)
+
+- [RSE-AUNZ - The RSE Association of Australia and New Zealand](https://rse-aunz.github.io/)
+
+- [RSE Asia](https://rse-asia.github.io/RSE_Asia/)
 
 ---
 
