@@ -505,6 +505,15 @@ class: center, middle, inverse
 
 ---
 
+## "The Stories We Tell Ourselves"
+
+- V. Sochat, [SeptembRSE conference](https://septembrse.society-rse.org/) keynote: https://doi.org/10.5281/zenodo.5470799
+- RSE Stories podcast: http://us-rse.org/rse-stories/
+
+<img src="img/rse-stories.png" style="width: 100%;"/>
+
+---
+
 ## Establishing a culture and the need for training
 
 - We need to support a .emph[culture of sharing].
