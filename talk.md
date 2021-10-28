@@ -110,6 +110,8 @@ We are now in the process of making the lessons citable.
 
 <img src="img/pyramid.png" style="width: 80%;"/>
 
+- https://carpentries.org/
+
 ---
 
 ## A vision of reaching many people at once
