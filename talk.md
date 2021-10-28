@@ -452,13 +452,9 @@ class: center, middle, inverse
 
 ---
 
-## Write programs for people
+<img src="img/tweet.jpg" style="width: 80%;"/>
 
-.quote["Write each program, quite deliberately, for other people to read and understand"]
-.cite[Roberts, K. V., Comput. Phys. Comm. 1, 1 (1969)]
-
-.quote["Many programs remain in use much longer than their authors originally expect"]
-.cite[Roberts, K. V., Comput. Phys. Comm. 1, 1 (1969)]
+.cite[https://twitter.com/walkingrandomly/status/1195040508239851521]
 
 ---
 
@@ -478,12 +474,6 @@ class: center, middle, inverse
 <img src="img/rse.jpg" style="width: 80%;"/>
 
 .cite[https://slides.com/simonhettrick/why-recognising-scientific-software-experts-is-key-to-open-science#/4/2]
-
----
-
-<img src="img/tweet.jpg" style="width: 80%;"/>
-
-.cite[https://twitter.com/walkingrandomly/status/1195040508239851521]
 
 ---
 
@@ -513,6 +503,16 @@ class: center, middle, inverse
 - RSE Stories podcast: http://us-rse.org/rse-stories/
 
 <img src="img/rse-stories.png" style="width: 100%;"/>
+
+---
+
+## Write programs for people
+
+.quote["Write each program, quite deliberately, for other people to read and understand"]
+.cite[Roberts, K. V., Comput. Phys. Comm. 1, 1 (1969)]
+
+.quote["Many programs remain in use much longer than their authors originally expect"]
+.cite[Roberts, K. V., Comput. Phys. Comm. 1, 1 (1969)]
 
 ---
 
