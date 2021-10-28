@@ -1,6 +1,7 @@
 # Next steps to FAIRifying coding in an academic setting
 
 - Slides: https://cicero.xyz/v3/remark/0.14.0/github.com/bast/talk-FAIRifying-coding/main/talk.md
+- Short link: https://bit.ly/tech-talk-cr
 - Text: free to share and remix under [CC-BY-SA-4.0](LICENSE).
 
 
